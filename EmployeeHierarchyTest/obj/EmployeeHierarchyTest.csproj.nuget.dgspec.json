@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\EmployeeHierarchyTest\\EmployeeHierarchyTest.csproj": {}
+  },
+  "projects": {
+    "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\Employee Hierarchy DLL\\Employee Hierarchy DLL.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\Employee Hierarchy DLL\\Employee Hierarchy DLL.csproj",
+        "projectName": "Employee Hierarchy DLL",
+        "projectPath": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\Employee Hierarchy DLL\\Employee Hierarchy DLL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\EmployeeHierarchyTest\\EmployeeHierarchyTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\EmployeeHierarchyTest\\EmployeeHierarchyTest.csproj",
+        "projectName": "EmployeeHierarchyTest",
+        "projectPath": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\EmployeeHierarchyTest\\EmployeeHierarchyTest.csproj",
+        "packagesPath": "C:\\Users\\KARANJA\\.nuget\\packages\\",
+        "outputPath": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\EmployeeHierarchyTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KARANJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\Employee Hierarchy DLL\\Employee Hierarchy DLL.csproj": {
+                "projectPath": "E:\\pdocs\\TechnoBrain\\Question 2\\Employee-Hierarchy-DLL\\Employee Hierarchy DLL\\Employee Hierarchy DLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
